@@ -1,2 +1,3 @@
-# track your task
+# track-your-task
+
 a tasks tracking web app
